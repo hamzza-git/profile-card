@@ -2,7 +2,6 @@
 
 A new basic Flutter project.
 
-![My Image]([[https://i.imgur.com/yourimage.png](https://ibb.co/dshtzQFB](https://i.postimg.cc/rFDK2BCB/download.png)))
 [![download.png](https://i.postimg.cc/rFDK2BCB/download.png)](https://postimg.cc/mtGbQ6nj)
 ## Getting Started
 
