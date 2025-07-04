@@ -1,6 +1,6 @@
-# testapp
+# Profile Card 
 
-A new Flutter project.
+A new basic Flutter project.
 
 ## Getting Started
 
